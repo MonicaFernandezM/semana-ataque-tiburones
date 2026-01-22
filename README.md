@@ -65,14 +65,17 @@ El proyecto incluye:
 
 ## Resultados 
 
-- Diferencias de mortalidad por sexo
+- Diferencias de mortalidad por sexo:
+
 Nuestro resultados indican que, del total de 6.480 registros, la mayoría de las muertes corresponden a hombres. En concreto, se registraron 5.670 fallecimientos de hombres, lo que representa aproximadamente el 87,5% del total, frente a 810 mujeres, que suponen el 12,5%
 
-- Años con mayor número de muertes
+- Años con mayor número de muertes:
+
 El análisis temporal muestra que el año 2015 fue aquel en el que se registró un mayor número de muertos, con 130 fallecimientos sobre un total e 6.371 registros.
 En segunda posición se encuentra 2017, con solo dos muertes menos, y en tercer lugar 2016, con 122 registros. Estos datos indican un pico de mortalidad concentrado en ese período.
 
-- Relación entre ataques provocados y mortalidad
+- Relación entre ataques provocados y mortalidad:
+
 En cuanto al tipo de ataque:
 * 21 personas fallecieron tras provocar el ataque, mientras que 613 personas sobrevivieron a ataques provocados.
 * Por otro lado, 1.266 personas murieron en ataques no provocados, y 3.872 personas fueron atacadas sin provocar el ataque y sobrevivieron.
@@ -80,15 +83,19 @@ En cuanto al tipo de ataque:
 Estos resultados indican que la mayoría de las muertes se producen en ataque s no provocados. 
 
 - Países con mayor número de ataques:
+
 El análisis geográfico revela que los cinco países con mayor número de ataques de tiburón son:
+
 1. Estados Unidos
 2. Australia
 3. Sudáfrica
 4. Nueva Zelanda
 5. Papúa Nueva Guinea
+
 Estos países concentran la mayor parte de los incidentes registrados en el dataset.
 
 - Época del año con mayor número de ataques
+
 El análsis por trimestres muestra que la mayor concentración de ataques de tiburón se produce en el tercer trimestre del año (julio, agosto y septiembre), con un total de 1.578 registros.
 
 En segundo lugar se encuentra el segundo trimestre (abril, mayo y junio) con 1.268 ataques, seguido del cuarto trimestre (octubre, noviembre y diciembre) con 1.231 registros.
@@ -100,7 +107,9 @@ Estos resultados sugieren que los ataques de tiburón son más frecuentes durant
 ## Contribución 
 
 Las contribuciones son bienvenidas.
+
 Si deseas mejorar el análisis o añadir visualizaciones:
+
 1. Haz un fork del repositorio
 2. Crea una nueva rama 
 3. Realiza tus cambios
